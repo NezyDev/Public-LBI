@@ -10,4 +10,4 @@ interpret.
 Source is need lua 5.1 source.
 
 # Credit
-I don't really remember who was made this contact me Codec#7070 to claim this
+all credit go to CompiledCode he's amazing guy that made this
